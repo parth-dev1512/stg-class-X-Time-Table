@@ -46,7 +46,7 @@ function setup() {
   button_ass.hide();
 
 
-  subject =new Subject();
+  subject =new Subjects();
   nextsub = new NextSubject();
 }
 
