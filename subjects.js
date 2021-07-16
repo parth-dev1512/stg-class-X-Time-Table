@@ -188,13 +188,13 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Subject of class going on : Hindi  ",width/2,height/2);
-        text("Teacher                   : Mrs.Punam Kumari",width/2,(height/2)+50);
-        text("id                             : 2517635465 ",width/2,(height/2)+100);
-        text("password                  : 8vzHZQ",width/2,(height/2)+150);
+        text("Subject of class going on : Hindi  ",width/4,height/2);
+        text("Teacher                   : Mrs.Punam Kumari",width/4,(height/2)+50);
+        text("id                             : 2517635465 ",width/4,(height/2)+100);
+        text("password                  : 8vzHZQ",width/4,(height/2)+150);
         
         button_2L.show();
-        button_2L.position(width/2,(height/2)+200)
+        button_2L.position(width/4,(height/2)+200)
 
 
        button_2L.mousePressed(()=>{
