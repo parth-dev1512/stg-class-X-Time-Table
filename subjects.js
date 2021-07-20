@@ -194,7 +194,7 @@ class Subjects
         text("password                  : 8vzHZQ",width/4,(height/2)+150);
         
         button_2L.show();
-        button_2L.position(width/4,(height/2)+200)
+        button_2L.position((width/4),(height/2)+200)
 
 
        button_2L.mousePressed(()=>{
