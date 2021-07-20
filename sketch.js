@@ -190,6 +190,8 @@ function draw() {
       }
       else
       {
+         textSize(20);
+        fill("black");
         text("Next Period is free",width/2,height/2)
       }
     }
@@ -198,6 +200,8 @@ function draw() {
     {
       if(min>=00 && min<41)
       {
+         textSize(20);
+        fill("black");
         text("This period is free",width/2,height/2)
       }
       else{
