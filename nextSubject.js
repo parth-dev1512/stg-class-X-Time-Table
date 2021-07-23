@@ -29,7 +29,8 @@ class NextSubject
         text("Next Subject at 9:00 : English Literature ",width/2,height/2);
       text("Teacher              : Mr.Amitava Pyne",width/2,(height/2)+50);
       text("id                         : 6129594166",width/2,(height/2)+100);
-      text("password             : 894196",width/2,(height/2)+150);
+      text("p
+           word             : 894196",width/2,(height/2)+150);
      
       button_eng2.show();
       button_eng2.position(width/2,(height/2)+200)
@@ -272,11 +273,11 @@ class NextSubject
       text("id                         : 8941362320 ",(width/4)+(width/2),(height/2)+100);
       text("password             : tJ78Be ",(width/4)+(width/2),(height/2)+150);
      
-      button_2L.show();
-      button_2L.position((width/4)+(width/2),(height/2)+200)
+      button_ass.show();
+      button_ass.position((width/4)+(width/2),(height/2)+200)
 
      
-      button_2L.mousePressed(()=>{
+      button_ass.mousePressed(()=>{
         window.open("https://us04web.zoom.us/j/8941362320?pwd=ZVFIb0pzcllEUmlKUTNXQmhSNVdqQT09", "_blank");
       })
       
