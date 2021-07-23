@@ -464,7 +464,7 @@ function draw() {
       else{
         fill("black");
         textSize(20)
-        text("Next class starts from 11:50");
+        text("Next class starts from 11:50",width/2,height/2);
       }
     }
 
@@ -474,7 +474,7 @@ function draw() {
       {
         fill("black");
         textSize(20)
-        text("This period is free");
+        text("This period is free",width/2,height/2);
       }
       else if(min>40 && min<50)
       {
