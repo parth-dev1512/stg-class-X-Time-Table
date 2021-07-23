@@ -491,7 +491,7 @@ function draw() {
       if(min>=00 && min<31)
       {
         subject.chem();
-        subject.eco_11();
+        subject.eco();
       }
       else{
         fill("black");
