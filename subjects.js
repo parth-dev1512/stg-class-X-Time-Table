@@ -212,11 +212,11 @@ class Subjects
       text("id                         : 8941362320 ",(width/4)+(width/2),(height/2)+100);
       text("password             : tJ78Be ",(width/4)+(width/2),(height/2)+150);
      
-      button_2L.show();
-      button_2L.position((width/4)+(width/2),(height/2)+200)
+      button_ass.show();
+      button_ass.position((width/4)+(width/2),(height/2)+200)
 
      
-      button_2L.mousePressed(()=>{
+      button_ass.mousePressed(()=>{
         window.open("https://us04web.zoom.us/j/8941362320?pwd=ZVFIb0pzcllEUmlKUTNXQmhSNVdqQT09", "_blank");
       })
       
