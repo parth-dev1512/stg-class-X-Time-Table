@@ -252,11 +252,11 @@ class NextSubject
       text("id                         : 2517635465 ",width/4,(height/2)+100);
       text("password             : 8vzHZQ",width/4,(height/2)+150);
      
-      button_2L.show();
-      button_2L.position(width/4,(height/2)+200)
+      button_hindi.show();
+      button_hindi.position(width/4,(height/2)+200)
 
      
-      button_2L.mousePressed(()=>{
+      button_hindi.mousePressed(()=>{
         window.open("https://us04web.zoom.us/j/2517635465?pwd=eDlJaW9sYTBwMXpVVTJ1VU5kZlR3QT09", "_blank");
       })
       
