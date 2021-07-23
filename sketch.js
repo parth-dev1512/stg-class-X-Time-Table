@@ -21,7 +21,7 @@ function setup() {
   button_chem = createButton("https://us04web.zoom.us/j/8727030584?pwd=WjBjQWJtMWM1NXltNENFMEJ4eGNQQT09");
   button_bio = createButton("https://us04web.zoom.us/j/5529059117?pwd=WWNoNGljR2ZIMHNaSDhEWXdEdjEvdz09");
   button_his = createButton("https://us05web.zoom.us/j/3862060151?pwd=M3ppeHJ3RXAxNGtkSFN2SWNlRHRRQT09");
-  button_2L = createButton("https://us04web.zoom.us/j/2517635465?pwd=eDlJaW9sYTBwMXpVVTJ1VU5kZlR3QT09");
+  button_hindi = createButton("https://us04web.zoom.us/j/2517635465?pwd=eDlJaW9sYTBwMXpVVTJ1VU5kZlR3QT09");
   button_eng1 = createButton("https://us04web.zoom.us/j/3961375730?pwd=N3pUbTVENUN2TFJLQ3Y3WTl3bCtGUT09");
   button_comp = createButton("https://us04web.zoom.us/j/9978372164?pwd=dmUzM2c3czg0WVBiWGxidVlNZlJUQT09");
   button_art = createButton("https://us04web.zoom.us/j/2287852646?pwd=cEpUdFRSR1RKanNETGxEN0lGb0I1UT09");
@@ -30,7 +30,7 @@ function setup() {
   button_ass = createButton("https://us04web.zoom.us/j/8941362320?pwd=ZVFIb0pzcllEUmlKUTNXQmhSNVdqQT09")
 
 
-  button_2L.hide();
+  button_hindi.hide();
   button_art.hide();
   button_bio.hide();
   button_chem.hide();
