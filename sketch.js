@@ -6,7 +6,7 @@ var link;
 var hour, min, day, d;
 var button;
 var subject;
-var button_hindi, button_art, button_bio, button_chem,  button_comp, button_cst, button_eco, button_eng1, button_eng2, button_geo, button_his, button_maths, button_phy;
+var button_hindi, button_art, button_bio, button_chem,  button_comp, button_cst, button_eco, button_eng1, button_eng2, button_geo, button_his, button_maths, button_phy,button_ass;
 
 
 function setup() {
