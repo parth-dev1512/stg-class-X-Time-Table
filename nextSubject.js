@@ -29,8 +29,7 @@ class NextSubject
         text("Next Subject at 9:00 : English Literature ",width/2,height/2);
       text("Teacher              : Mr.Amitava Pyne",width/2,(height/2)+50);
       text("id                         : 6129594166",width/2,(height/2)+100);
-      text("p
-           word             : 894196",width/2,(height/2)+150);
+      text("password             : 894196",width/2,(height/2)+150);
      
       button_eng2.show();
       button_eng2.position(width/2,(height/2)+200)
