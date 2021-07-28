@@ -4,10 +4,10 @@ class Subjects
     {
         textSize(20);
         fill("black");
-      text("Subject of class in prgress : English Language ",width/2,height/2);
-      text("Teacher                     : Mrs.Sanjukta Handique",width/2,(height/2)+50);
-      text("id                          : 3961375730",width/2,(height/2)+100);
-      text("password                    : 3XncLd",width/2,(height/2)+150);
+      text("Class in progress : English Language ",width/2,height/2);
+      text("Teacher           : Mrs.Sanjukta Handique",width/2,(height/2)+50);
+      text("id                : 3961375730",width/2,(height/2)+100);
+      text("password          : 3XncLd",width/2,(height/2)+150);
       
       
       button_eng1.show();
@@ -22,7 +22,7 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Subject of class going on : English Literature ",width/2,height/2);
+        text("Class in Progress         : English Literature ",width/2,height/2);
         text("Teacher                   : Mr.Amitava Pyne",width/2,(height/2)+50);
         text("id                             : 6129594166",width/2,(height/2)+100);
         text("password                  : 894196",width/2,(height/2)+150);
@@ -39,7 +39,7 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Subject of class going on : Geography ",width/2,height/2);
+        text("Class in Progress         : Geography ",width/2,height/2);
         text("Teacher                   : Mr.Tushar Das",width/2,(height/2)+50);
         text("id                             : 7825570991",width/2,(height/2)+100);
         text("password                  : 1XA3a4",width/2,(height/2)+150);
@@ -58,7 +58,7 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Subject of class going on : Maths ",width/2,height/2);
+        text("Class in Progress : Maths ",width/2,height/2);
         text("Teacher                   : Mr.Amit Kumar Yadav",width/2,(height/2)+50);
         text("id                             : 4332273334",width/2,(height/2)+100);
         text("password                  : 704126",width/2,(height/2)+150);
@@ -79,7 +79,7 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Subject of class going on : Physics  ",width/4,height/2);
+        text("Class in Progress         : Physics  ",width/4,height/2);
         text("Teacher                   : Mr.Rohit Kumar Mishra",width/4,(height/2)+50);
         text("id                             : 4058835403",width/4,(height/2)+100);
         text("password                  : 519751",width/4,(height/2)+150);
@@ -97,7 +97,7 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Subject of class going on : Computer  ",width/4,height/2);
+        text("Class in Progress         : Computer  ",width/4,height/2);
         text("Teacher                   : Mr.Jibesh Bhattacharjee",width/4,(height/2)+50);
         text("id                             : 9978372164",width/4,(height/2)+100);
         text("password                  : 081632",width/4,(height/2)+150);
@@ -115,7 +115,7 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Subject of class going on : History & Civics  ",width/2,height/2);
+        text("Class in Progress : History & Civics  ",width/2,height/2);
         text("Teacher                   : Mrs.Arpita Simons",width/2,(height/2)+50);
         text("id                             : 3862060151",width/2,(height/2)+100);
         text("password                  : XXJ81R",width/2,(height/2)+150);
@@ -133,7 +133,7 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Subject of class going on : Art  ",(width/4)+(width/2),height/2);
+        text("Class in Progress         : Art  ",(width/4)+(width/2),height/2);
         text("Teacher                   : Mr.Lok Gurung",(width/4)+(width/2),(height/2)+50);
         text("id                             : 2287852646",(width/4)+(width/2),(height/2)+100);
         text("password                  : 982815",(width/4)+(width/2),(height/2)+150);
@@ -151,7 +151,7 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Subject of class going on : CST  ",(width/4)+(width/2),height/2);
+        text("Class in Progress         : CST  ",(width/4)+(width/2),height/2);
         text("Teacher                   : Ms.Puja Bora",(width/4)+(width/2),(height/2)+50);
         text("id                             : 5733949734",(width/4)+(width/2),(height/2)+100);
         text("password                  : Ux8r9T",(width/4)+(width/2),(height/2)+150);
@@ -169,7 +169,7 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Subject of class going on : Biology  ",width/4,height/2);
+        text("Class in Progress         : Biology  ",width/4,height/2);
         text("Teacher                   : Mrs.Swati Gupta",width/4,(height/2)+50);
         text("id                             : 5529059117",width/4,(height/2)+100);
         text("password                  : science",width/4,(height/2)+150);
@@ -188,7 +188,7 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Class in progress : Hindi  ",width/4,height/2);
+        text("Class in progress         : Hindi  ",width/4,height/2);
         text("Teacher                   : Mrs.Punam Kumari",width/4,(height/2)+50);
         text("id                             : 2517635465 ",width/4,(height/2)+100);
         text("password                  : 8vzHZQ",width/4,(height/2)+150);
@@ -227,7 +227,7 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Subject of class going on : Chemistry  ",width/4,height/2);
+        text("Class in Progress         : Chemistry  ",width/4,height/2);
         text("Teacher                   : Mrs.Anasuya Chowdhury",width/4,(height/2)+50);
         text("id                             : 8727030584 ",width/4,(height/2)+100);
         text("password                  : 875569",width/4,(height/2)+150);
@@ -246,7 +246,7 @@ class Subjects
     {
         textSize(20);
         fill("black");
-        text("Subject of class going on : Economics  ",(width/4)+(width/2),height/2);
+        text("Class in Progress         : Economics  ",(width/4)+(width/2),height/2);
         text("Teacher                   : Mr.Amitava Pyne",(width/4)+(width/2),(height/2)+50);
         text("id                             : 6129594166 ",(width/4)+(width/2),(height/2)+100);
         text("password                  : 894196",((width/4)+(width/2)),(height/2)+150);
