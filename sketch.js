@@ -30,6 +30,33 @@ function setup() {
   button_ass = createButton("https://us04web.zoom.us/j/8941362320?pwd=ZVFIb0pzcllEUmlKUTNXQmhSNVdqQT09")
 
 
+ 
+
+  subject =new Subjects();
+  nextsub = new NextSubject();
+}
+
+
+function time()
+{
+  
+}
+
+function draw() {
+  background(255,255,255);  
+  
+  
+  //createSprite(width/2,height/2,50,50)
+  var d = new Date();
+  
+  day=d.getDay();
+
+  hour=d.getHours();
+
+  min=d.getMinutes();
+
+
+  
   button_hindi.hide();
   button_art.hide();
   button_bio.hide();
@@ -45,31 +72,11 @@ function setup() {
   button_phy.hide();
   button_ass.hide();
 
-
-  subject =new Subjects();
-  nextsub = new NextSubject();
-}
-
-
-function time()
-{
   
-}
-
-function draw() {
-  background(255,255,255);  
   
-  //createSprite(width/2,height/2,50,50)
-  var d = new Date();
   
-  day=d.getDay();
-
-  hour=d.getHours();
-
-  min=d.getMinutes();
-
-
-
+  
+  
   setInterval(d,100);
   setInterval(day,100);
   setInterval(hour,100);
